@@ -46,7 +46,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>app.Main</mainClass> <!-- Replace with your main class -->
+                            <mainClass>Vue.Main</mainClass> <!-- Replace with your main class -->
                         </manifest>
                     </archive>
                 </configuration>

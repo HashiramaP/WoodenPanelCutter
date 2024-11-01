@@ -1,8 +1,7 @@
-package app;
+package Domain;
+
 import java.awt.*;
 import java.util.List;
-import java.util.ArrayList;
-import java.util.UUID;
 
 
 public class ZoneInterdite extends ElemPanel {

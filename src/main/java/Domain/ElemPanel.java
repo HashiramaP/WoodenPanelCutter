@@ -1,4 +1,4 @@
-package app;
+package Domain;
 import java.util.UUID;
 
 public class ElemPanel {

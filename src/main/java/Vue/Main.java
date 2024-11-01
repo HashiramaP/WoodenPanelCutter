@@ -1,5 +1,4 @@
-package app;
-import javax.swing.*;
+package Vue;
 
 public class Main {
     public static void main(String[] args) {
