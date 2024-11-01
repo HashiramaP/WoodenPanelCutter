@@ -15,18 +15,10 @@ public class ZoneInterdite extends ElemPanel {
                     (p.y >= 0 && p.y <= d.height)) {
                 return true;
             }
+        }
             return false;
-        };
-    }
-
-        public List<ZoneInterdite> getZoneInterdite() {
-        };
-
-        public void supprimerZoneInterdite( UUID id) {
-
-        };
+        }
+    };
 
 
-
-}
 
